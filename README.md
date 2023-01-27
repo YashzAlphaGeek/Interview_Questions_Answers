@@ -44,9 +44,11 @@ public class Client implements Injector {
     }
 </pre></code>
 
-### Advantages of dependency injection (https://www.youtube.com/watch?v=Eqi-hYX50MI)
+### Advantages of dependency injection 
 
-1.Makes testing easier by enabling the use of mock objects or stubs
-2.Reduces coupling between client and dependency classes
-3.Reduces boilerplate code since the initialization of all dependencies is done once by the injector
-4.The code is easier to maintain and reuse
++ Makes testing easier by enabling the use of mock objects or stubs
++ Reduces coupling between client and dependency classes
++ Reduces boilerplate code since the initialization of all dependencies is done once by the injector
++ The code is easier to maintain and reuse
+
+Detailed: (https://www.youtube.com/watch?v=Eqi-hYX50MI)
