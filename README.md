@@ -56,3 +56,18 @@ public class Client implements Injector {
 + The code is easier to maintain and reuse
 
 Detailed: (https://www.youtube.com/watch?v=Eqi-hYX50MI)
+
+### Sort Of Array (or) ArrayList In Ascending Order Java
+
+<pre><code>
+List<Integer> list = Arrays.asList(10, 4, 2, 6, 5, 8);
+Collections.sort(list);
+System.out.println(list);
+</pre></code>
+
+(OR)
+
+<pre><code>
+list.stream().sorted().collect(Collectors.toList());
+</pre></code>
+
