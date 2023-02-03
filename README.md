@@ -71,3 +71,13 @@ System.out.println(list);
 list.stream().sorted().collect(Collectors.toList());
 </pre></code>
 
+### OSLC API
+The Open Services for Lifecycle Collaboration Change Management (OSLC-CM) specification defines a lightweight, RESTful API for software change management systems. It acts as a common language for Application Lifecycle Management (ALM) tools.
+
+#### OSLC API
+Interfaces can be REST based interfaces.
+OSLC when incepted was based on using the REST paradigm.
+
+#### REST API
+Rest is a number of rules and patradigms that are used. There can be many interfaces that are conform. What these interfaces  provide can be totally different. They can have rules on top of what REST requests and be specialised on some domain.
+
