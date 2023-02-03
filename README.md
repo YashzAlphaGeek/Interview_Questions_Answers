@@ -78,6 +78,8 @@ The Open Services for Lifecycle Collaboration Change Management (OSLC-CM) specif
 Interfaces can be REST based interfaces.
 OSLC when incepted was based on using the REST paradigm.
 
+https://open-services.net/
+
 #### REST API
 Rest is a number of rules and patradigms that are used. There can be many interfaces that are conform. What these interfaces  provide can be totally different. They can have rules on top of what REST requests and be specialised on some domain.
 
